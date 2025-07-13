@@ -79,3 +79,4 @@ scikit-learn
 pandas
 joblib
 pyngrok
+## WEB LINK :https://122c654df5e9.ngrok-free.app/
